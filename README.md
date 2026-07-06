@@ -1,4 +1,4 @@
-# SYN Flood Detection Using Random Forest and Decision Tree with Recursive Feature Elimination (RFE)
+# COMPARATIVE ANALYSIS OF RANDOM FOREST AND DECISION TREE ALGORITHMS BASED ON RECURSIVE FEATURE ELIMINATION FOR SYN FLOOD ATTACK DETECTION IN UNTIRTA COMPUTER LABORATORY
 
 ## Deskripsi
 
@@ -10,7 +10,7 @@ Penelitian menggunakan dataset hasil *packet capture* yang diperoleh dari jaring
 
 ## Judul Skripsi
 
-**Implementasi Algoritma Random Forest dan Decision Tree dengan Recursive Feature Elimination (RFE) untuk Deteksi Serangan TCP SYN Flood Berbasis Dashboard Streamlit**
+**ANALISIS PERBANDINGAN ALGORITMA RANDOM FOREST DAN DECISION TREE BERBASIS RECURSIVE FEATURE ELIMINATION UNTUK DETEKSI SERANGAN SYN FLOOD PADA LABORATORIUM KOMPUTER UNTIRTA**
 
 ---
 
