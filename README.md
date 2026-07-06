@@ -17,9 +17,11 @@ Penelitian menggunakan dataset hasil *packet capture* yang diperoleh dari jaring
 ## Tujuan Penelitian
 
 * Membangun model deteksi serangan TCP SYN Flood menggunakan algoritma Random Forest dan Decision Tree.
+  
+
+* Membandingkan kinerja kedua algoritma.
 * Mengoptimalkan proses seleksi fitur menggunakan Recursive Feature Elimination (RFE).
-* Membandingkan performa kedua algoritma.
-* Mengimplementasikan model terbaik ke dalam dashboard berbasis Streamlit.
+* Mengimplementasikan model  ke dalam dashboard berbasis Streamlit.
 
 ---
 
@@ -82,7 +84,7 @@ Repository ini menyediakan dua dataset hasil *packet capture*.
 | Model               | Accuracy   |
 | ------------------- | ---------- |
 | Random Forest + RFE | **95,10%** |
-| Decision Tree + RFE | **95,07%** |
+| Decision Tree + RFE | **94,60%** |
 
 Random Forest dengan optimasi Recursive Feature Elimination (RFE) memberikan performa terbaik dalam penelitian ini.
 
